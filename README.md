@@ -70,9 +70,9 @@ print(result)
     "timezone": "America/New_York",
     "exchange": "NYSE",
     "fullName": "New York Stock Exchange",
-    "isOpen": false,
-    "openingTime": "2024-05-15 09:30:00",
-    "closingTime": "2024-05-15 16:00:00"
+    "isOpen": true,
+    "openingTime": "2024-07-17 09:30:00",
+    "closingTime": "2024-07-17 16:00:00"
   }
 }
 ```
